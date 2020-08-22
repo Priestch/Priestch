@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a self-taught programmer, have some experience in backend and frontend.
+I'm a self-taught programmer, have some experience both in backend and frontend.
 
 [![Priestch's github stats](https://github-readme-stats.vercel.app/api?username=Priestch&show_icons=true)](https://github.com/Priestch/Priestch)
 
