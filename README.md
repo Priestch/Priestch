@@ -21,3 +21,4 @@ I'm a self-taught programmer, have some experience both in backend and frontend.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priestch&layout=compact)](https://github.com/Priestch/Priestch)
 
+[OSS Insight](https://ossinsight.io/analyze/Priestch)
