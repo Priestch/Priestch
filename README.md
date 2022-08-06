@@ -20,3 +20,6 @@ I'm a self-taught programmer, have some experience both in backend and frontend.
 [![Priestch's github stats](https://github-readme-stats.vercel.app/api?username=Priestch&show_icons=true)](https://github.com/Priestch/Priestch)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priestch&layout=compact)](https://github.com/Priestch/Priestch)
+
+[![OSS Insight](https://ossinsight.io/analyze/Priesch)](https://ossinsight.io/analyze/Priestch)
+
