@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a self-taught programmer, have some experience both in backend and frontend.
+I'm a self-taught programmer. I had been working on a web application using Python with Angular.js for almost 3 years.
+Currently, I focus on frontend especially.
+
+Development Experience:
+* Frontend: JS, TS, Angular.js, Vue2/3, React.js, Solid.js, Sass/Less
+* Basckend: Python, Flash, Tornado, FastAPI, SQLalchemy
+* Others: PDF.js, ProseMirror, Strapi, Gatsby
 
 [![Priestch's github stats](https://github-readme-stats.vercel.app/api?username=Priestch&show_icons=true)](https://github.com/Priestch/Priestch)
 
