@@ -20,7 +20,7 @@ Currently, I focus on frontend especially.
 
 Development Experience:
 * Frontend: JS, TS, Angular.js, Vue2/3, React.js, Solid.js, Sass/Less
-* Basckend: Python, Flash, Tornado, FastAPI, SQLAlchemy
+* Basckend: Python, FlasK, Tornado, FastAPI, SQLAlchemy
 * Others: PDF.js, ProseMirror, Strapi, Gatsby
 
 [![Priestch's github stats](https://github-readme-stats.vercel.app/api?username=Priestch&show_icons=true)](https://github.com/Priestch/Priestch)
