@@ -27,4 +27,4 @@ Development Experience:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priestch&layout=compact)](https://github.com/Priestch/Priestch)
 
-View me on [OSS Insight](https://ossinsight.io/analyze/Priestch).
+View more from [OSS Insight](https://ossinsight.io/analyze/Priestch).
