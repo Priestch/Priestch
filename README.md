@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 I'm a self-taught programmer. I had been working on a web application using Python with Angular.js for almost 3 years.
-Currently, I focus on frontend especially.
+Currently, I focus on frontend especially. 
+
+I prefer Vue to React in my personal projects, I think React still sucks after hooks were introduced.
 
 I'm currently trying to learn Rust using Tauri to build some Desktop apps.
 
