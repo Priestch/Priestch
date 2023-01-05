@@ -28,8 +28,8 @@ Development Experience:
 * Tooling: Gulp, Webpack, Rollup, Vite
 * Others: Web Worker, WebAssembly, PDF.js, ProseMirror, Strapi, Gatsby
 
-[![Priestch's github stats](https://github-readme-stats.vercel.app/api?username=Priestch&show_icons=true)](https://github.com/Priestch/Priestch)
+[![Priestch's github stats](https://github-readme-stats.vercel.app/api?username=Priestch&show_icons=true&count_private=true)](https://github.com/Priestch/Priestch)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priestch&layout=compact)](https://github.com/Priestch/Priestch)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priestch&layout=compact&langs_count=6&hide=html)](https://github.com/Priestch/Priestch)
 
 View more from [OSS Insight](https://ossinsight.io/analyze/Priestch).
