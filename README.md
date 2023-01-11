@@ -20,13 +20,13 @@ Currently, I focus on frontend especially.
 
 I prefer Vue to React in my personal projects, I think React still sucks after hooks were introduced.
 
-I'm currently trying to learn Rust using Tauri to build some Desktop apps.
+I'm currently trying to learn Rust using [Tauri](https://tauri.app/) to build some Desktop apps.
 
 Development Experience:
 * Frontend: JS, TS, Angular.js, Vue2/3, React.js, Solid.js, Sass/Less
 * Basckend: Python, Flask, Tornado, FastAPI, SQLAlchemy
 * Tooling: Gulp, Webpack, Rollup, Vite
-* Others: Web Worker, WebAssembly, PDF.js, ProseMirror, Strapi, Gatsby, Tauri
+* Others: Web Worker, WebAssembly, PDF.js, ProseMirror, Strapi, Gatsby
 
 [![Priestch's github stats](https://github-readme-stats.vercel.app/api?username=Priestch&show_icons=true&count_private=true)](https://github.com/Priestch/Priestch)
 
