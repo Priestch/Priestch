@@ -26,7 +26,7 @@ Development Experience:
 * Frontend: JS, TS, Angular.js, Vue2/3, React.js, Solid.js, Sass/Less
 * Basckend: Python, Flask, Tornado, FastAPI, SQLAlchemy
 * Tooling: Gulp, Webpack, Rollup, Vite
-* Others: Web Worker, WebAssembly, PDF.js, ProseMirror, Strapi, Gatsby
+* Others: Web Worker, WebAssembly, PDF.js, ProseMirror, Strapi, Gatsby, Electron
 
 [![Priestch's github stats](https://github-readme-stats.vercel.app/api?username=Priestch&show_icons=true&count_private=true)](https://github.com/Priestch/Priestch)
 
