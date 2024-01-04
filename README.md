@@ -23,7 +23,7 @@ I prefer Vue to React in my personal projects, I think React still sucks after h
 I'm currently trying to learn Rust using [Tauri](https://tauri.app/) to build some Desktop apps.
 
 Development Experience:
-* Frontend: JS, TS, Angular.js, Vue2/3, React.js, Solid.js, Sass/Less
+* Frontend: JS, TS, AngularJS, Vue2/3, React.js, Solid.js, Sass/Less
 * Basckend: Python, Flask, Tornado, FastAPI, SQLAlchemy
 * Tooling: Gulp, Webpack, Rollup, Vite
 * Others: Web Worker, WebAssembly, PDF.js, ProseMirror, Strapi, Gatsby, Electron
