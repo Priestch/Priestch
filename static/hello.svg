@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="765" viewBox="0 0 1360 765">
+
+    <foreignObject width="1360" height="765">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="safari-translate">
+            <div class="safari-scale">
+                <button>Hello, Javascript!</button>
+            </div>
+
+            <script>
+                document.querySelector("button").onclick = function() {
+                    alert("Hello from SVG!");
+                };
+            </script>
+        </div>
+        <style>
+            button {
+                background-color: lightblue;
+            }
+        </style>
+    </foreignObject>
+
+</svg>
