@@ -10,7 +10,7 @@ I also have solid backend experience building REST APIs with Python frameworks s
 I'm currently learning Rust with [Tauri](https://tauri.app/) to build desktop applications.
 
 # Featured Projects
-- [markopress](https://github.com/Priestch/markopress): A VitePress-like static site generator built with Marko.js, combining Markdown authoring with Marko components for more flexible documentation sites.
+- [markopress](https://github.com/Priestch/markopress): A VitePress-like static site generator built with [Marko.js](https://markojs.com/), combining Markdown authoring with Marko components for more flexible documentation sites.
 - [document-viewer](https://github.com/Priestch/document-viewer): A reusable PDF viewer built on PDF.js, designed for easy integration into web applications.
 - [ooxml-viewer](https://github.com/Priestch/ooxml-viewer): An internal XML viewer for inspecting the structure of Word, Excel, and PowerPoint files.
 
